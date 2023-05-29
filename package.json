@@ -1,0 +1,8 @@
+{
+  "name": "Practice_SessionAutoLoginNodeJS",
+  "version": "1.0.0",
+  "dependencies": {
+    "local-storage": "^2.0.0",
+    "qs": "^6.11.2"
+  }
+}
